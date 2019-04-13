@@ -108,7 +108,7 @@ class Main{
             case "data":{
                 String item = input.next();
                 int value = input.nextInt();
-                app.addData(item, value);
+                app.changeData(item, value);
                 break;
             }
             case "addChart":{
