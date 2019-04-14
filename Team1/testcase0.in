@@ -1,0 +1,9 @@
+data Seafood 8
+data RollsRoyce 2
+data BoxOfficeStaff 3
+addChart Spreadsheet
+addChart BarChart
+addChart PieChart
+change Spreadsheet CustomerServiceStaff 2
+change BarChart Seafood 2
+
